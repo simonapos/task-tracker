@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://simonapos.github.io/task-tracker",
+  "homepage": "https://simonapos.github.io/task-tracker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
